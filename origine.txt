@@ -1,0 +1,5 @@
+1. Di che colore è il cielo?
+2. Quante ore di informatica facciamo alla settimana?
+3. Che giorno è oggi?
+4. Che sport faccio?
+5. Quanto fa (1 + 7 * 3)?
